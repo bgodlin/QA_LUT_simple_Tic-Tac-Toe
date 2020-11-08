@@ -104,7 +104,6 @@ while space_exist():
     if not moved:
         print(' >> Invalid number ! Try again !')
         continue
-    #
     if won:
         result = '*** Congratulations ! You won ! ***'
         break
