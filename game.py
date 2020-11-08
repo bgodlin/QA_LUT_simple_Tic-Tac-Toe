@@ -1,6 +1,3 @@
-""" Tic Tac Toe
-----------------------------------------
-"""
 import random
 import sys
 board=[i for i in range(0,9)]
